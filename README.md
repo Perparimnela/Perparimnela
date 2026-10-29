@@ -1,6 +1,6 @@
 # Hi, I'm Perparim 👋
 
-> **dib**: *Diversity Is Brilliant* · *Diversiteti është brilant*
+> **dib** = "Diversity Is Brilliant" · "Diversiteti është brilant"
 
 Electrician by trade from Albania 🇦🇱, interested in KNX and smart buildings.
 
