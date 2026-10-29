@@ -1,6 +1,13 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dib-logo-dark.png">
+    <img src="dib-logo.png" alt="dib: Diversity is Brilliant" width="240">
+  </picture>
+</p>
+
 # Hi, I'm Perparim 👋
 
-> **dib** = "Diversity Is Brilliant" · "Diversiteti është brilant"
+> **dib** = "Diversity is Brilliant" · "Diversiteti është brilant"
 
 Electrician by trade from Albania 🇦🇱, interested in KNX and smart buildings.
 
