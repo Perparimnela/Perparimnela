@@ -14,7 +14,7 @@
 Electrician from Albania 🇦🇱 with a strong interest in electrical installations, KNX technology and intelligent building automation.
 
 - ⚡ **Electrical installations:** electrician by trade, building up practical experience.
-- 🏠 **KNX & smart buildings:** completed theoretical KNX training; currently developing practical skills in building automation.
+- 🏠 **KNX & smart buildings:** completed a theoretical KNX course; practical work in building automation is my next step.
 - 🌍 **Open source:** Albanian localization of [XKNX Editor](https://github.com/XKNX/xknx-editor), officially merged into the upstream project.
 
 ## Open-Source Contributions
