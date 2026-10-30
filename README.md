@@ -7,7 +7,7 @@
 
 # Hi, I'm Perparim 👋
 
-> **dib** = "Diversity is Brilliant" · "Diversiteti është brilant"
+> "Diversity is Brilliant"
 
 **Electrician | KNX & Smart Building Enthusiast | Open-Source Contributor**
 
