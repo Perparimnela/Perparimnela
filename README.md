@@ -9,20 +9,32 @@
 
 > **dib** = "Diversity is Brilliant" · "Diversiteti është brilant"
 
-Electrician by trade from Albania 🇦🇱, interested in KNX and smart buildings.
+**Electrician | KNX & Smart Building Enthusiast | Open-Source Contributor**
 
-- 🔌 Electrician (electrical installations)
-- 🏠 Learning KNX: I have taken a theoretical KNX course, and practical work comes next
-- 🌍 Albanian translation of [XKNX Editor](https://github.com/XKNX/xknx-editor), merged in [XKNX/xknx-editor#174](https://github.com/XKNX/xknx-editor/pull/174)
+Electrician from Albania 🇦🇱 with a strong interest in electrical installations, KNX technology and intelligent building automation.
+
+- ⚡ **Electrical installations:** practical experience in residential and commercial electrical installations.
+- 🏠 **KNX & smart buildings:** completed theoretical KNX training; currently developing practical skills in building automation.
+- 🌍 **Open source:** Albanian localization of [XKNX Editor](https://github.com/XKNX/xknx-editor), officially merged into the upstream project.
+
+## Open-Source Contributions
+
+### 🇦🇱 Albanian Localization: XKNX Editor
+
+I implemented the Albanian localization of XKNX Editor, making the software more accessible to Albanian-speaking KNX professionals and users.
+
+- Officially accepted and merged into the XKNX project, released with [v0.9.1](https://github.com/XKNX/xknx-editor/releases/tag/xknx-editor-v0.9.1)
+- Pull request: [XKNX/xknx-editor#174](https://github.com/XKNX/xknx-editor/pull/174)
+- Contribution: Albanian interface localization and terminology
 
 ## Languages
 
 - 🇦🇱 Albanian: native
 - 🇩🇪 German: B1 (certified)
-- 🇬🇧 English: basic, improving
+- 🇬🇧 English: basic, actively improving
 
 ## Shqip
 
-Jam elektricist nga Shqipëria dhe po mësoj KNX dhe sistemet e ndërtesave inteligjente.
-Përktheva XKNX Editor në shqip, dhe përkthimi u pranua në projektin zyrtar, që edhe përdoruesit
-shqiptarë ta kenë programin në gjuhën e tyre.
+Jam elektricist nga Shqipëria dhe kam interes të veçantë për teknologjinë KNX dhe automatizimin e ndërtesave inteligjente.
+Kam realizuar lokalizimin e XKNX Editor në gjuhën shqipe. Ky kontribut është pranuar dhe integruar në projektin zyrtar open source, duke mundësuar përdorimin e programit edhe në gjuhën shqipe.
+Besoj në teknologji të hapur, bashkëpunim dhe zhvillim të vazhdueshëm.
