@@ -7,8 +7,6 @@
 
 # Hi, I'm Perparim 👋
 
-> "Diversity is Brilliant"
-
 **Electrician | KNX & Smart Building Enthusiast | Open-Source Contributor**
 
 Electrician from Albania 🇦🇱 with a strong interest in electrical installations, KNX technology and intelligent building automation.
