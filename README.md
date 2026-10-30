@@ -13,7 +13,7 @@ Electrician by trade from Albania 🇦🇱, interested in KNX and smart building
 
 - 🔌 Electrician (electrical installations)
 - 🏠 Learning KNX: I have taken a theoretical KNX course, and practical work comes next
-- 🌍 Translating [XKNX Editor](https://github.com/XKNX/xknx-editor) into Albanian: [XKNX/xknx-editor#174](https://github.com/XKNX/xknx-editor/pull/174)
+- 🌍 Albanian translation of [XKNX Editor](https://github.com/XKNX/xknx-editor), merged in [XKNX/xknx-editor#174](https://github.com/XKNX/xknx-editor/pull/174)
 
 ## Languages
 
@@ -24,4 +24,5 @@ Electrician by trade from Albania 🇦🇱, interested in KNX and smart building
 ## Shqip
 
 Jam elektricist nga Shqipëria dhe po mësoj KNX dhe sistemet e ndërtesave inteligjente.
-Po përkthej XKNX Editor në shqip, që edhe përdoruesit shqiptarë ta kenë programin në gjuhën e tyre.
+Përktheva XKNX Editor në shqip, dhe përkthimi u pranua në projektin zyrtar, që edhe përdoruesit
+shqiptarë ta kenë programin në gjuhën e tyre.
